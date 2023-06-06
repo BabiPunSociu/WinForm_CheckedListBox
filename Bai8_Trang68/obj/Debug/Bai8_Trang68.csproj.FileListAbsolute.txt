@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\bin\Debug\Bai8_Trang68.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\bin\Debug\Bai8_Trang68.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\bin\Debug\Bai8_Trang68.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai8_Trang68\Bai8_Trang68\obj\Debug\Bai8_Trang68.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\bin\Debug\Bai8_Trang68.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\bin\Debug\Bai8_Trang68.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\bin\Debug\Bai8_Trang68.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_CheckedListBox\Bai8_Trang68\obj\Debug\Bai8_Trang68.pdb
